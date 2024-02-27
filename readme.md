@@ -23,21 +23,21 @@
 </h4>
 
 <p align="left">
-  <a href="https://github.com/brunossales/social-links" alt="RepoSize">
+  <a href="https://github.com/brunossaless/social-links" alt="RepoSize">
 
-  <img height=24he src="https://img.shields.io/github/repo-size/brunossales/social-links" /> </a>
+  <img height=24he src="https://img.shields.io/github/repo-size/brunossaless/social-links" /> </a>
 
   <a href="#" alt="Languagens">
 
-  <img height=24he src="https://img.shields.io/github/languages/count/brunossales/social-links" /> </a>
+  <img height=24he src="https://img.shields.io/github/languages/count/brunossaless/social-links" /> </a>
 
   <a href="#" alt="Fork">
 
-  <img height=25he src="https://img.shields.io/github/stars/brunossales/social-links?style=social" /> </a>
+  <img height=25he src="https://img.shields.io/github/stars/brunossaless/social-links?style=social" /> </a>
 
   <a href="#" alt="Watch">
 
-  <img height=25he src="https://img.shields.io/github/watchers/brunossales/social-links?style=social" /> 
+  <img height=25he src="https://img.shields.io/github/watchers/brunossaless/social-links?style=social" /> 
 
   </a>
 
